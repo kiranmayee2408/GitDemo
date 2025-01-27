@@ -1,1 +1,3 @@
 Hello kiranmayee !!!
+take input from user
+add the values
